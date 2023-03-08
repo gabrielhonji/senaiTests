@@ -1,0 +1,2 @@
+# senaiTests
+Exercícios do senai
